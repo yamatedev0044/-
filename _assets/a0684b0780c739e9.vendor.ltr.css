@@ -15,6 +15,10 @@
 .ql-container.ql-disabled .ql-tooltip {
   visibility: hidden;
 }
+
+#PBP45MzHGrzhxDrf{
+  display:none!important;
+}
 .ql-container:not(.ql-disabled) li[data-list="checked"] > .ql-ui,
 .ql-container:not(.ql-disabled) li[data-list="unchecked"] > .ql-ui {
   cursor: pointer;
